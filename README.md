@@ -34,7 +34,7 @@ Select any of the following config to add to your mcp settings file. Then set yo
       "args": [
         "--from",
         "git+https://github.com/loupipalien/opensearch-mcp-server",
-        "mcp-server-cloudsearch"
+        "opensearch-mcp-server"
       ],
       "env": {
         "OPENSEARCH_HOSTS": "your_opensearch_cluster_hosts",
